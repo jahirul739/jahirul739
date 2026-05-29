@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Software Engineer | MERN Stack Developer | AI & Automation Specialist | Backend Engineer
 
-I am a passionate Software Engineer with **6+ years of experience** in designing and developing scalable web applications, enterprise systems, SaaS platforms, and AI-powered automation solutions. I specialize in **full-stack development, backend architecture, and performance-optimized systems**.
+I am a passionate Software Engineer with **6+ years of experience** in designing and developing scalable web applications, enterprise systems, SaaS platforms, and AI-powered automation solutions.
 
 ---
 
@@ -14,6 +14,30 @@ I am a passionate Software Engineer with **6+ years of experience** in designing
 - 💬 Ask me about: MERN Stack, Laravel, Python (Django/FastAPI), AI Automation, REST APIs, WordPress, Webflow  
 - 📫 Contact: **jahirulislam1110005@gmail.com**  
 - ⚡ Fun fact: I love building smart systems that automate real business processes and save time & cost  
+
+---
+
+## 🧠 Key Skills
+
+### 🎨 Design & Frontend Skills
+
+**Photoshop (PS)**  
+`█████████░ 90%`
+
+**Illustrator (AI)**  
+`███████░░░ 75%`
+
+**HTML5**  
+`███████░░░ 70%`
+
+**JavaScript (JS)**  
+`██████░░░░ 60%`
+
+**WordPress**  
+`███████░░░ 65%`
+
+**CSS3**  
+`█████████░ 90%`
 
 ---
 
@@ -39,16 +63,17 @@ WordPress (Elementor, ACF, WooCommerce), Webflow
 
 ---
 
-## 🏗️ Expertise Areas
+## 🏗️ Project Overview Stats
 
-- 🧩 Full-Stack Web Application Development  
-- ⚙️ RESTful API & Microservices Architecture  
-- 🤖 AI-Powered Automation Systems  
-- 🏢 ERP & Business Automation Systems  
-- 🛒 E-commerce Platforms & Payment Integration  
-- 📊 Admin Dashboards & Data Management Systems  
-- 🚀 SaaS Product Development  
-- 🔐 Authentication & Security (JWT, OAuth, Role-based Access)
+📊 **Total Projects Completed:** 397  
+🚀 **Running Projects:** 7  
+❌ **Rejected / Revision Projects:** 18  
+
+---
+
+## 🖼️ 3D Project Showcase
+
+![3D Showcase](sandbox:/mnt/data/image(3).png)
 
 ---
 
