@@ -1,65 +1,48 @@
-Hi, I'm Jahirul Islam
+# 👋 Hi, I'm Jahirul Islam
 
-Full-Stack Software Engineer | MERN Stack | AI & Automation Engineer | Backend Architect
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
 
-I am a 6+ years experienced Software Engineer specializing in building scalable SaaS platforms, enterprise systems, AI-powered automation, and high-performance backend architectures.
+---
 
-Professional Summary
-Building: SaaS Platforms, ERP Systems, AI Automation Tools, Enterprise Applications
-Learning: System Design, Cloud Architecture (AWS), Microservices, DevOps
-Collaborating on: AI SaaS Products, Automation Systems, Open Source Tools
-Expertise: MERN Stack, Laravel, Python (Django/FastAPI), WordPress, Webflow, REST APIs
-Contact: jahirulislam1110005@gmail.com
-Passion: Automating real-world business systems with intelligent solutions
-Data-Driven Skill Distribution (Doughnut Chart)
-Tech Stack Overview
-Frontend Engineering
+## 🚀 Full-Stack Software Engineer | MERN | AI | Backend Architect
 
-React.js, Next.js, Vue.js, Redux, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+I am a **6+ years experienced Software Engineer** specializing in SaaS, ERP systems, AI automation, and scalable backend architecture.
 
-Backend Engineering
+---
 
-Node.js, Express.js, PHP (Laravel), Python (Django, FastAPI), REST APIs
+## 🧠 About Me
 
-AI & Automation
+- 🔭 Building SaaS, ERP, AI Automation Systems  
+- 🌱 Learning System Design, AWS, DevOps, Microservices  
+- 👯 Open to collaboration on AI & SaaS products  
+- 💬 Expert: MERN, Laravel, Python, WordPress, Webflow  
+- 📫 Email: **jahirulislam1110005@gmail.com**
 
-OpenAI API, Workflow Automation, Bots, Web Scraping, AI Integration Systems
+---
 
-Databases
+## 🧠 Tech Stack
 
-MongoDB, MySQL, PostgreSQL, Redis
+<p align="center">
 
-DevOps & Infrastructure
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![AI](https://img.shields.io/badge/AI-Automation-blueviolet?style=for-the-badge)
 
-Docker, GitHub Actions, AWS (basic), Nginx, CI/CD Pipelines
+</p>
 
-CMS & Platforms
+---
 
-WordPress (Elementor, ACF, WooCommerce), Webflow
+## 📊 Skill Distribution
 
-Project Statistics
-Metric	Value
-Total Projects	397+
-Active Projects	7
-Under Revision	18
-Featured Projects
-E-commerce Platform – Scalable system with payment integration
-ERP System – Inventory, HR, billing & reporting automation
-POS System – Real-time billing & stock management
-AI Automation System – API-based workflow automation engine
-SaaS Platform – Multi-tenant subscription-based system
-Corporate Websites – SEO-optimized business solutions
-GitHub Analytics
-
-Contribution Activity
-
-Connect With Me
-Email: jahirulislam1110005@gmail.com
-GitHub: https://github.com/jahirul739
-Portfolio: (Add your website)
-LinkedIn: (Add your LinkedIn)
-Professional Philosophy
-
-“Engineering scalable systems that transform real-world business problems into intelligent digital solutions.”
-
-🚀 Always improving. Always building. Always scaling.
+```mermaid id="skillchart"
+pie title Skill Breakdown
+    "Frontend" : 30
+    "Backend" : 25
+    "AI & Automation" : 15
+    "Database" : 10
+    "DevOps" : 10
+    "CMS" : 10
